@@ -22,3 +22,5 @@ The following topics are covered in this project:
 3. [Training](https://github.com/Machine-Learning-in-Glaciology-Workshop/Project_MB_Regression/blob/main/3_Training.ipynb) :rocket:: Here we introduce the different machine learning methods that we can use to simulate glacier mass balance. We will explore the characteristics of each one, including their specific hyperparameters. 
 
 4. [Validation](https://github.com/Machine-Learning-in-Glaciology-Workshop/Project_MB_Regression/blob/main/4_Validation.ipynb) :dart:: Once we are acquainted with the different machine learning models, we will introduce the concepts of cross-validation and hyperparameter selection. We will choose one of the models, which we will tune in detail in cross-validation in order to correctly extrapolate for unseen data. 
+
+> We will be updating this project iteratively. If you come across any typos or mistakes in the notebooks, please feel free to make a pull request!

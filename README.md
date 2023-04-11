@@ -23,4 +23,12 @@ The following topics are covered in this project:
 
 4. [Validation](https://github.com/Machine-Learning-in-Glaciology-Workshop/Project_MB_Regression/blob/main/4_Validation.ipynb) :dart:: Once we are acquainted with the different machine learning models, we will introduce the concepts of cross-validation and hyperparameter selection. We will choose one of the models, which we will tune in detail in cross-validation in order to correctly extrapolate for unseen data. 
 
+### Bonus projects!
+
+The main project's aim is to learn the fundamentals of machine learning workflows applied to glacier and geophysical modelling. Nonetheless, for those seeking to dig deeper into the glaciology aspects of this, we propose two bonus projects. These two projects use distributed (gridded) datasets, which have a much higher spatial resolution and complexity. Two additional notebooks can be followed for this:
+
+5. [Distributed data pre-processing](https://github.com/Machine-Learning-in-Glaciology-Workshop/Project_MB_Regression/blob/main/5_Distributed_preprocessing.ipynb) :bar_chart:: In this notebook we learn how to download gridded datasets for any glacier in the world, including geodetic mass balance, ice thickness data, topographical data such as surface slope, aspect, distance to border, and how to easily downscale climate data to those glaciers. 
+
+6. [Bonus projects](https://github.com/Machine-Learning-in-Glaciology-Workshop/Project_MB_Regression/blob/main/6_Bonus_Projects.ipynb) :diamonds:: In this notebook we introduce the two bonus projects: one focusing on predicting gridded geodetic mass balance rates, and another one inferring distriburted glacier ice thickness. 
+
 > We will be updating this project iteratively. If you come across any typos or mistakes in the notebooks, please feel free to make a pull request!

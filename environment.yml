@@ -1,4 +1,4 @@
-name: oggm_env
+name: finse_modelling
 channels:
   - conda-forge
 dependencies:
